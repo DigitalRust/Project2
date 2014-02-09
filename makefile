@@ -1,4 +1,4 @@
-#Authors : Bryce McAnally, Eugene Neff
+#Authors : Bryce McAnally, Harrison Neff
 
 CFLAGS = -g -Wall
 cc = gcc
